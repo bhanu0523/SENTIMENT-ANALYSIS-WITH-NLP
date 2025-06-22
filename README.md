@@ -1,9 +1,9 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
 *COMPANY* : CODTECH IT SOLUTIONS
-*NAME*: GUNNA PAVAN 
-*INTERN ID*: CT04DN1757 
+*NAME*: DAMULURU BHANU THULASI 
+*INTERN ID*: CT06DK513 
 *DOMAIN* : MACHINE LEARNING 
-*DURATION* : 4 WEEKS 
+*DURATION* : 6 WEEKS 
 *MENTOR* : NEELA SANTOSH 
 Sentiment Analysis is a type of natural language processing (NLP) technique used to determine the emotional tone behind a body of text. It helps identify whether the text expresses a positive, negative, or neutral sentiment.
 What Does Sentiment Analysis Do?
